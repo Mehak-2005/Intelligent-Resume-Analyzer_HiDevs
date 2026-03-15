@@ -1,0 +1,4 @@
+Mehak
+mehak@example.com
+Skills: Python, SQL, Machine Learning
+Experience: 2 years
