@@ -1,0 +1,12 @@
+{
+    "candidate": "Mehak",
+    "score": 80,
+    "matched_skills": [
+        "Python",
+        "Git",
+        "SQL"
+    ],
+    "missing_skills": [
+        "Machine Learning"
+    ]
+}

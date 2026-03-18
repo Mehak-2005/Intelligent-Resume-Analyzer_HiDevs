@@ -1,0 +1,5 @@
+Name: Mehak
+Email: mehak@example.com
+Skills: Python, SQL, Machine, HTML, Data Analysis , Git
+Experience: 3
+Education: B.Tech
